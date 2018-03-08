@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Tutorial theme</title>
+<title>DP Photo Protfolio</title>
 <script type="text/javascript" src="<?php echo get_stylesheet_directory_uri().'/js/jquery.js'; ?>">
 </script>
 <script type="text/javascript" src="<?php echo get_stylesheet_directory_uri().'/js/jquery-ui.min.js'; ?>">
