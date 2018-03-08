@@ -14,6 +14,6 @@
 <body>
 
 <div id="ttr_header" class="jumbotron">
-<h1>HEADER</h1>
+<h1>Changing the header</h1>
 </div>
 <div class="container">
